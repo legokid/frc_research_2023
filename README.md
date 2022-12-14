@@ -5,6 +5,8 @@ AprilTags
 ----------
 WPILib Pose Estimation, Simulation, and PhotonVision Together: https://docs.photonvision.org/en/latest/docs/examples/simposeest.html
 
+Controls Engineering in FRC: https://file.tavsys.net/control/controls-engineering-in-frc.pdf
+
 ChiefDelphi Announcement of PhotonVision 2023 Beta: https://www.chiefdelphi.com/t/photonvision-beta-2023-apriltags/415626
 
 Representative AprilTags (Print at 103%): see 16h5.pdf in this repo
