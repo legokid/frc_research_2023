@@ -13,6 +13,9 @@ Representative AprilTags (Print at 103%): see 16h5.pdf in this repo
 
 PhotonVision Releases: https://github.com/PhotonVision/photonvision/releases
 
+ROMI
+----------
+https://www.chiefdelphi.com/t/does-driver-station-work-with-romi/413364
 
 IMU
 ----------
