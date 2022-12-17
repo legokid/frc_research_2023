@@ -22,6 +22,8 @@ Quasi solution for SysId on ROMI: https://www.chiefdelphi.com/t/2022-sysid-tool-
 
 PhotonVision of ROMI: https://docs.photonvision.org/en/latest/docs/getting-started/installation/install/romi.html
 
+PhotonVision AprilTags ROMI: https://www.chiefdelphi.com/t/help-using-photonvision-apriltags-with-romi-beta-2023-6/418705
+
 IMU
 ----------
 Acienna OpenIMU: https://www.aceinna.com/inertial-systems/IMU
