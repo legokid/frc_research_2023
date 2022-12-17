@@ -15,7 +15,12 @@ PhotonVision Releases: https://github.com/PhotonVision/photonvision/releases
 
 ROMI
 ----------
-https://www.chiefdelphi.com/t/does-driver-station-work-with-romi/413364
+Driver station use with ROMI: https://www.chiefdelphi.com/t/does-driver-station-work-with-romi/413364
+
+Quasi solution for SysId on ROMI: https://www.chiefdelphi.com/t/2022-sysid-tool-with-romi/400160/6
+                                  https://bitbucket.org/sciborgs4061/java-robot-2022-beta-public/src/main/src/main/java/frc/
+
+PhotonVision of ROMI: https://docs.photonvision.org/en/latest/docs/getting-started/installation/install/romi.html
 
 IMU
 ----------
